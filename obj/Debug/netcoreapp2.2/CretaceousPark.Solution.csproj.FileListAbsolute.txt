@@ -1,0 +1,14 @@
+/Users/iangregg/Desktop/CretaceousPark.Solution/bin/Debug/netcoreapp2.2/CretaceousPark.Solution.deps.json
+/Users/iangregg/Desktop/CretaceousPark.Solution/bin/Debug/netcoreapp2.2/CretaceousPark.Solution.runtimeconfig.json
+/Users/iangregg/Desktop/CretaceousPark.Solution/bin/Debug/netcoreapp2.2/CretaceousPark.Solution.runtimeconfig.dev.json
+/Users/iangregg/Desktop/CretaceousPark.Solution/bin/Debug/netcoreapp2.2/CretaceousPark.Solution.dll
+/Users/iangregg/Desktop/CretaceousPark.Solution/bin/Debug/netcoreapp2.2/CretaceousPark.Solution.pdb
+/Users/iangregg/Desktop/CretaceousPark.Solution/obj/Debug/netcoreapp2.2/CretaceousPark.Solution.csprojAssemblyReference.cache
+/Users/iangregg/Desktop/CretaceousPark.Solution/obj/Debug/netcoreapp2.2/CretaceousPark.Solution.csproj.CoreCompileInputs.cache
+/Users/iangregg/Desktop/CretaceousPark.Solution/obj/Debug/netcoreapp2.2/CretaceousPark.Solution.RazorAssemblyInfo.cache
+/Users/iangregg/Desktop/CretaceousPark.Solution/obj/Debug/netcoreapp2.2/CretaceousPark.Solution.RazorAssemblyInfo.cs
+/Users/iangregg/Desktop/CretaceousPark.Solution/obj/Debug/netcoreapp2.2/CretaceousPark.Solution.AssemblyInfoInputs.cache
+/Users/iangregg/Desktop/CretaceousPark.Solution/obj/Debug/netcoreapp2.2/CretaceousPark.Solution.AssemblyInfo.cs
+/Users/iangregg/Desktop/CretaceousPark.Solution/obj/Debug/netcoreapp2.2/CretaceousPark.Solution.RazorTargetAssemblyInfo.cache
+/Users/iangregg/Desktop/CretaceousPark.Solution/obj/Debug/netcoreapp2.2/CretaceousPark.Solution.dll
+/Users/iangregg/Desktop/CretaceousPark.Solution/obj/Debug/netcoreapp2.2/CretaceousPark.Solution.pdb
